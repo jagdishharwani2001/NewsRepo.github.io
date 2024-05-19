@@ -1,6 +1,6 @@
 import React, { useState } from "react"
-import Newsnav from "./Component/Newsnav";
-import NewsBoard from "./Component/NewsBoard";
+import Newsnav from "./Newsnav";
+import NewsBoard from "./NewsBoard";
 
 
 const App = ()=>{
